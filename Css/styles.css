@@ -1,9 +1,9 @@
 img {
-   float: left;
+   float: right;
 }
 img {
    width: 300px;
-   length: 400px;
+   length: 300px;
 }
 body {
    font-size: 16px;
