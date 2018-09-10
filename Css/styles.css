@@ -34,7 +34,8 @@ h6 {
 }
 .important {
    background-color: gold;
-   width: 40%
+   width: 55%;
+   float: left;
    border: 2px;
    padding: 6px;
    margin: 20px;
